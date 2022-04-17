@@ -11,4 +11,4 @@ Obby that gets harder everytime someone wins: https://www.roblox.com/games/71392
 Natural Disaster Survival: https://www.roblox.com/games/189707/Natural-Disaster-Survival
 
 
-Script:
+Script: loadstring(game:HttpGet("https://raw.githubusercontent.com/cistuff/MAXHUB/main/MAXHUB.lua", true))()
