@@ -1,8 +1,8 @@
-# MAXHUB
+# Max Hub
 MaxHub is my personal script hub.
 
 
-MaxHub currently supports:
+Max Hub currently supports:
 
 Juke's Towers of Hell: https://www.roblox.com/games/8562822414/Jukes-Towers-of-Hell
 
@@ -16,3 +16,8 @@ Script: loadstring(game:HttpGet("https://raw.githubusercontent.com/cistuff/MAXHU
 I am currently working on a seperate UI that does not auto-detect what game you are in and has other generic scripts. This UI will include a UI for JToH. This UI will be automatically loaded when MaxHub is executed in a game that is not supported by MaxHub.
 
 Script for the seperate UI: loadstring(game:HttpGet("https://raw.githubusercontent.com/cistuff/MAXHUB/main/MAXHUB_CUSTOM.lua", true))()
+
+
+Other scripts related to Max Hub:
+
+Script for JToH UI: loadstring(game:HttpGet("https://raw.githubusercontent.com/cistuff/MAXHUB/main/JTOH.lua", true))()
