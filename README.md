@@ -21,3 +21,5 @@ Script for the seperate UI: Coming soon!
 Other scripts related to Max Hub:
 
 Script for JToH UI: loadstring(game:HttpGet("https://raw.githubusercontent.com/cistuff/MAXHUB/main/Max%20Hub%20Custom/Jtoh.lua", true))()
+
+(script will not load if you are not whitelisted)
