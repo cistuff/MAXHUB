@@ -1,3 +1,3 @@
 # Max Hub
 
-Info about scripts can be found in Scripts.lua.
+All Max Hub scripts are in cistuff/main/Scripts.lua.
