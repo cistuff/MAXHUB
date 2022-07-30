@@ -1,6 +1,4 @@
 # Max Hub
-MaxHub is my personal script hub.
-
 
 Max Hub currently supports:
 
